@@ -1,0 +1,29 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.headers {
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 10px;
+}
+
+#btn {
+  width: 100px;
+  height: 30px;
+  margin: auto;
+  margin-top: 20px;
+  color: white;
+  background-color: lightgrey;
+  border-radius: 5px;
+}
+
+#btn:hover {
+  cursor: pointer;
+  width: 110px;
+  height: 35px;
+}
