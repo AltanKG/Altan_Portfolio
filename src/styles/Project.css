@@ -1,0 +1,84 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 60%;
+  border-left: solid black 5px;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.application1 {
+  width: 100%;
+  height: 500px;
+  border: solid black 1px;
+  margin: 5px;
+  background-image: url("../assets/images/Mod-ify-1.png");
+  background-size: cover;
+}
+
+.application2 {
+  width: 48%;
+  height: 150px;
+  border: solid black 1px;
+  margin: 5px;
+  background-image: url("../assets/images/Weather_Dashboard-1.png");
+  background-size: cover;
+}
+
+.application3 {
+  width: 48%;
+  height: 150px;
+  border: solid black 1px;
+  margin: 5px;
+  background-image: url("../assets/images/Work_Day_Scheduler-1.png");
+  background-size: cover;
+}
+
+.application1:hover {
+  opacity: 0.5;
+}
+.application2:hover {
+  opacity: 0.5;
+}
+.application3:hover {
+  opacity: 0.5;
+}
+
+.app_desc1 {
+  width: 15%;
+  height: 15%;
+  background-color: rgb(187, 180, 180);
+  text-align: center;
+  font-weight: 900;
+  font-size: 1.25rem;
+  position: relative;
+  top: 80%;
+}
+
+.app_desc {
+  width: 30%;
+  height: 30%;
+  background-color: rgb(187, 180, 180);
+  text-align: center;
+  font-weight: 900;
+  font-size: 1.25rem;
+  position: relative;
+  top: 60%;
+}
+
+.app_desc1 p {
+  position: relative;
+  top: 30%;
+}
+
+.app_desc p {
+  position: relative;
+  top: 10%;
+}

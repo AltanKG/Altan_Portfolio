@@ -1,0 +1,14 @@
+.personalLinks {
+  color: black;
+}
+
+.section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 60%;
+  border-left: solid black 5px;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+}
