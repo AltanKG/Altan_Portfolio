@@ -1,7 +1,5 @@
 # React_Portfolio
 
-# React_Portfolio
-
 ## Project Description
 
 As an employer looking for candidates with experience building single-page applications
